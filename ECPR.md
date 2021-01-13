@@ -23,13 +23,13 @@ GITHUB ID: skymrsn
 ## Operating System
 
 1. **Post the output of the relevant version command on your operating system, or summarize your operating system and version information:**  
-![windows_Version](./windowVersion.png)
+![windows_Version](https://github.com/skymrsn/INFO-314/blob/main/windowVersion.png)
    
 
 2. **Post the output of the locale command:**
     **On Windows, this is `GET-WinSystemLocale` on PowerShell** 
     **On Mac, this is `locale` on Terminal** <br/>
-![locale](./locale.png)
+![locale](https://github.com/skymrsn/INFO-314/blob/main/locale.png)
    
 
 
