@@ -28,7 +28,7 @@ GITHUB ID: skymrsn
 
 2. **Post the output of the locale command:**
     **On Windows, this is `GET-WinSystemLocale` on PowerShell** 
-    **On Mac, this is `locale` on Terminal**
+    **On Mac, this is `locale` on Terminal** <br/>
 ![locale](./locale.png)
    
 
